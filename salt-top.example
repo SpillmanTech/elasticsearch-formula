@@ -1,0 +1,4 @@
+base:
+  '*':
+    - elasticsearch
+    - elasticsearch.tests

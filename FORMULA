@@ -1,0 +1,8 @@
+name: elasticsearch
+os: RedHat, CentOS, Ubuntu, Debian
+os_family: RedHat, Debian
+version: 201706
+release: 1
+summary: Elasticsearch formula from saltstack formulas
+description: Elasticsearch formula from saltstack formulas
+top_level_dir: elasticsearch
